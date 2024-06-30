@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">PabloCodevs</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/877pVHg">
+<img src="https://cdn.discordapp.com/attachments/1168359214356373545/1257037911388590172/PabloCodevs.png?ex=6682f348&is=6681a1c8&hm=1b92cee729ec14834f756fcf6927366b813b0fb9482e074aa4c281f75a8c2690&">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
