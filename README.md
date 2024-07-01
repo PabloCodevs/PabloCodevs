@@ -5,16 +5,17 @@
 
 ## Sobre mi
 
-- 🌟 Técnico en Sistemas Microinformáticos y Redes
+- ⭐ Técnico en Sistemas Microinformáticos y Redes
 - 💻 Apasionado por la tecnología y la programación
-- 📚 Actualmente aprendiendo a programar en varios lenguajes
+- 📚 Actualmente aprendiendo Python y SQL
 - 🔧 Interesado en el desarrollo de aplicaciones móviles y web
 - 🌐 Explorando nuevas tecnologías y metodologías de desarrollo
 
-<div align="center">
-  <h3>⚙️ GitHub Analytics</h3>
-  <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=PabloCodevs&show_icons=true" alt="PabloCodevs's GitHub Stats" width="45%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCodevs&layout=compact" alt="Top Languages" width="45%"/>
-  </div>
-</div>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/PabloCodevs">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PabloCodevs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PabloCodevs&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
