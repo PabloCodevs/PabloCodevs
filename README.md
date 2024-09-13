@@ -1,7 +1,6 @@
 <div align="center">
   <h1 align="center">Hola, soy <a href="#">PabloCodevs</a> 👋</h1>
 </div>
-<img src="https://cdn.discordapp.com/attachments/1168359214356373545/1257049252010655754/PabloCodevs_1.png?ex=6694ca18&is=66937898&hm=9dcf5ed3ebc153df394f6b5f98bcd5a7e86457bd6760a9e9bb4590cc62accd3f&">
 
 ## Sobre mi
 
