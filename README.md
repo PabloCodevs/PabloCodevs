@@ -15,11 +15,13 @@
 <p align="center">
 <a href="https://github.com/PabloCodevs">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PabloCodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PabloCodevs&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PabloCodev&layout=compact&langs_count=8&theme=algolia"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PabloCodevs&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <p>
+    
+  </p><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PabloCodev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+</p>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
