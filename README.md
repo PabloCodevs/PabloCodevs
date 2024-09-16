@@ -1,20 +1,19 @@
-<div align="center">
-  <h1 align="center">Hola, soy <a href="#">PabloCodevs</a> 👋</h1>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Shariful+Islam" alt="Typing SVG" /></a>
 
-## Sobre mi
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+passionate+frontend+and+backend+developer+from+Bangladesh" alt="Typing SVG" /></a>
 
-- ⭐ Técnico en Sistemas Microinformáticos y Redes
-- 💻 Apasionado por la tecnología y la programación
-- 📚 Actualmente aprendiendo Python y SQL
-- 🔧 Interesado en el desarrollo de aplicaciones móviles y web
-- 🌐 Explorando nuevas tecnologías y metodologías de desarrollo
+<img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharif-islam96403&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge" alt="sharif-islam96403" /> </p>
+  <h3> Full Stack Developer || Self-Taught Developer || CS @ EDU</h3>
+  
+  - Working on **Routine Scheduler** project using <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" align=center /></span>
+  - Exploring <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="30" align="center"/></span> and <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="30" align="center" /></span>.
 
-### ⚙️ &nbsp;GitHub Analytics
+<h3 align="left">Connect with me:</h3>
 
-<p align="center">
-<a href="https://github.com/PabloCodevs">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PabloCodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PabloCodev&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<a href="https://www.linkedin.com/in/shariful-islam-b3266a1b9/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Shariful Islam</a>
+
+<a href="https://www.instagram.com/sharif__islam_/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"> Sharif Islam</a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sharif.islam96403@gmail.com"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"> Shariful Islam</a>
