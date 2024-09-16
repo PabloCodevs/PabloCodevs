@@ -11,6 +11,8 @@
 - Actualmente aprendiendo Python y SQL
 - A futuro me gustaría crear y mantener mis apliaciones y páginas web
 
+<hr>
+<hr>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
