@@ -1,5 +1,5 @@
 # 💫 Sobre Mí:
-🔭 Actualmente estoy trabajando en una aplicación de Tareas.<br>🌱 Estoy aprendiendo SQL y Python.<br>💬 No arreglo impresoras.<br>⚡ Dato curioso: Acabo de empezar en el mundillo del código
+🔭 Actualmente estoy desarrollando mi primera app para poner a prueba mis conocimientos.<br>🌱 Estoy aprendiendo SQL y Python.<br>💬 No arreglo impresoras.<br>⚡ Dato curioso: Acabo de empezar en el mundillo del código
 
 
 # 💻 Tech Stack:
