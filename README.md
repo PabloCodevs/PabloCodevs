@@ -1,23 +1,15 @@
-<div align="center">
-  <h1 align="center">Hola, soy <a href="#">PabloCodevs</a> 👋</h1>
-</div>
+# 💫 Sobre mí:
+🔭 Actualmente estoy trabajando en una aplicación de Tareas.<br>🌱 Estoy aprendiendo SQL y Python.<br>💬 No arreglo impresoras.<br>⚡ Dato curioso: Acabo de empezar en el mundillo del código.
 
-<img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
 
-## Sobre mi
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PabloCodevs&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PabloCodevs&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCodevs&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- Desarrollador Web Junior
-- Conocimientos básicos en HTML y CSS
-- Actualmente aprendiendo Python y SQL
-- A futuro me gustaría crear y mantener mis apliaciones y páginas web
+---
+[![](https://visitcount.itsvg.in/api?id=PabloCodevs&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<hr>
-<hr>
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/PabloCodevs">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PabloCodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PabloCodev&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
