@@ -2,7 +2,6 @@
   <h1 align="center">Hola, soy <a href="#">PabloCodevs</a> 👋</h1>
 </div>
 
-<img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PabloCodevs96403&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge" alt="sharif-islam96403" /> </p>
   <h3> Full Stack Developer || Self-Taught Developer || CS @ EDU</h3>
