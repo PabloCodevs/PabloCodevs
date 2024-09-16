@@ -2,6 +2,8 @@
   <h1 align="center">Hola, soy <a href="#">PabloCodevs</a> 👋</h1>
 </div>
 
+<img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
+
 ## Sobre mi
 
 - ⭐ Técnico en Sistemas Microinformáticos y Redes
