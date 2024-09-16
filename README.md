@@ -6,11 +6,10 @@
 
 ## Sobre mi
 
-- ⭐ Técnico en Sistemas Microinformáticos y Redes
-- 💻 Apasionado por la tecnología y la programación
-- 📚 Actualmente aprendiendo Python y SQL
-- 🔧 Interesado en el desarrollo de aplicaciones móviles y web
-- 🌐 Explorando nuevas tecnologías y metodologías de desarrollo
+- Desarrollador Web Junior
+- Conocimientos básicos en HTML y CSS
+- Actualmente aprendiendo Python y SQL
+- A futuro me gustaría crear y mantener mis apliaciones y páginas web
 
 ### ⚙️ &nbsp;GitHub Analytics
 
