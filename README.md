@@ -1,22 +1,12 @@
 ### <div align="center">¡Hey 👋! Soy PabloCodevs 👨🏻‍💻</div>  
   
-
 - 🌱 Actualmente estoy estudiando Desarrollo Web y sigo aprendiendo cada día.  
-  
-
 - 💡 Tengo conocimientos básicos en Sistemas Operativos (Linux y WIndows), también HTML, CSS, Figma y Kotlin. Actualmente estoy aprendiendo SQL. Una vez aprendidos los conocimientos básicos me gustaría aprender Python, SQL y JavaScript.  
-  
-
 - ✨ Me gusta aprender y estar en constante desarrollo para seguir creciendo en el mundo de la tecnología.  
-  
-
-<br/>  
-
+  <br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
