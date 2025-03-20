@@ -1,34 +1,39 @@
-<h1 align="center">Hola 👋, soy Pablo</h1>
-<h3 align="center">Desarrollador Web</h3>
+<h1 align="center">¡Hola mundo! 👋 Soy Pablo 😄</h1>
+<h3 align="center">💻 Desarrollador Web Jr. | 📚 Estudiante DAW | ⚙️ Constructor de cosas útiles</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="coder gif"/>
+</p>
 
 ---
 
-### 🧠 Actualmente aprendiendo:
+### 🧠 En modo aprendizaje:
 
-- 🟢 **HTML & CSS**: Diseño web limpio y estructurado  
-- 🟢 **Java**: Orientación a objetos, backend básico  
-- 🟢 **SQL**: Consultas eficientes, gestión de bases de datos relacionales  
-- 🛠️ Pronto: **React** | **Vue** | **NoSQL**
+- 🟢 **HTML & CSS** — Domando estilos y estructuras con cariño 🧩  
+- 🟢 **Java** — Backend con orientación a objetos, sí señor ☕  
+- 🟢 **SQL** — Consultas como un ninja de bases de datos 🧙‍♂️  
+- 🛠️ **Coming soon**: React ⚛️ | Vue 🔮 | NoSQL 🗃️
 
 ---
 
 ### 🚀 Sobre mí
 
-🎓 Estudio Desarrollo de Aplicaciones Web (DAW)  
-💡 Me apasiona construir soluciones útiles con buenas prácticas  
-🤝 Siempre abierto a colaborar y seguir aprendiendo
+🎓 Estudiante del ciclo DAW (Desarrollo de Aplicaciones Web)  
+💡 Me flipa transformar ideas en proyectos reales con código  
+🤝 Fan del trabajo en equipo, el aprendizaje constante y los memes tech 🤓  
+🧪 Experimento con código hasta que funcione (y luego hago backup 😅)
 
 ---
 
-### ⚒️ Tech Stack
+### ⚒️ Mi stack actual
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,mysql,git,vscode" />
 </p>
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 📊 Mis estadísticas (más activas que mi café ☕)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PabloCodevs&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
@@ -40,27 +45,31 @@
 
 ### 📌 Proyectos Destacados
 
-> ✨ *Explora los repos pinned en mi perfil para ver en qué he estado trabajando*
+✨ *Explora mis proyectos pineados arriba 👆, están hechos con cariño y café*  
+📁 Mini apps, ejercicios DAW y cosas raras que voy creando para aprender  
+🚧 ¡Pronto subiré un CRUD completo con Java y SQL!
+
 ---
 
-### 📫 Conecta conmigo
+### 🤝 ¿Nos conectamos?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pablocodevs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-PabloCodevs-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
 
 ---
 
-### 🧩 Extras
+### 🧩 Fun facts sobre mí:
 
-- 💬 Me gusta hablar sobre desarrollo web, productividad y aprender nuevas tecnologías
-- ⚡ Dato random: Organizo mi aprendizaje con Notion y mapas mentales
-- 🌱 Próximo reto: Desarrollar un proyecto full stack y aprender TypeScript
+- 💬 Me encanta hablar de código... aunque no siempre me entienda el compilador 😅  
+- 🧠 Aprendo con mapas mentales, Notion y algún que otro post-it  
+- 🎯 Próximo reto: crear una app full stack sin romper todo (mucho)
 
 ---
 
 <p align="center">
-  Gracias por visitar mi perfil 🙌  
+  <b>Gracias por pasarte por mi perfil 🚀<br/>
+  ¡Nos vemos en el código!</b> 🧑‍💻
 </p>
