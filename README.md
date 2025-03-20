@@ -57,6 +57,14 @@
 
 ---
 
+## 📸 Serpiente de contribuciones
+
+<p align="center">
+  <img src="dist/github-contribution-grid-snake.svg" alt="Snake GIF" />
+</p>
+
+---
+
 ## 📫 Contacto
 
 <p align="center">
