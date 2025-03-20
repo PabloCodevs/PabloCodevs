@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Pablo</h1>
-<h3 align="center">Desarrollador Web en formación • DAW Student • Amante del código limpio</h3>
+<h3 align="center">Desarrollador Web</h3>
 
 ---
 
