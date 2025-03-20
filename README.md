@@ -68,3 +68,8 @@
 ---
 
 <p align="center">Gracias por pasarte por mi perfil 💙</p>
+
+<!-- GitHub contribution snake -->
+<p align="center">
+  <img src="https://github.com/PabloCodevs/PabloCodevs/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
