@@ -52,7 +52,8 @@
 
 ## 📌 Repositorios destacados
 
-> ✨ Pinea los proyectos que más te representen. Aunque sean simples, si los hiciste tú, valen oro.
+>
+>
 
 ---
 
