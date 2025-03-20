@@ -1,57 +1,51 @@
-<h1 align="center">¡Hola mundo! 👋 Soy Pablo 😄</h1>
-<h3 align="center">💻 Desarrollador Web Jr. | 📚 Estudiante DAW | ⚙️ Constructor de cosas útiles</h3>
+<h1 align="center">Hola 👋, soy Pablo</h1>
+<h3 align="center">Desarrollador Web Jr. | Estudiante de DAW</h3>
+
+---
+
+### 🚧 Aprendiendo
+
+- 🔹 HTML & CSS  
+- 🔹 Java  
+- 🔹 SQL  
+- 🔜 React, Vue, NoSQL
+
+---
+
+### 🧑‍💻 Sobre mí
+
+- Estudio Desarrollo de Aplicaciones Web (DAW)  
+- Me interesa todo lo relacionado con el desarrollo web  
+- Me gusta entender bien las bases antes de seguir avanzando  
+- Voy paso a paso, sin prisa pero sin pausa
+
+---
+
+### ⚙️ Stack actual
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="coder gif"/>
+  <img src="https://skillicons.dev/icons?i=html,css,java,mysql,git" />
 </p>
 
 ---
 
-### 🧠 En modo aprendizaje:
-
-- 🟢 **HTML & CSS** — Domando estilos y estructuras con cariño 🧩  
-- 🟢 **Java** — Backend con orientación a objetos, sí señor ☕  
-- 🟢 **SQL** — Consultas como un ninja de bases de datos 🧙‍♂️  
-- 🛠️ **Coming soon**: React ⚛️ | Vue 🔮 | NoSQL 🗃️
-
----
-
-### 🚀 Sobre mí
-
-🎓 Estudiante del ciclo DAW (Desarrollo de Aplicaciones Web)  
-💡 Me flipa transformar ideas en proyectos reales con código  
-🤝 Fan del trabajo en equipo, el aprendizaje constante y los memes tech 🤓  
-🧪 Experimento con código hasta que funcione (y luego hago backup 😅)
-
----
-
-### ⚒️ Mi stack actual
+### 📈 Estadísticas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,mysql,git,vscode" />
-</p>
-
----
-
-### 📊 Mis estadísticas (más activas que mi café ☕)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloCodevs&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PabloCodevs&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PabloCodevs&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PabloCodevs&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📌 Proyectos Destacados
+### 📌 Repositorios destacados
 
-✨ *Explora mis proyectos pineados arriba 👆, están hechos con cariño y café*  
-📁 Mini apps, ejercicios DAW y cosas raras que voy creando para aprender  
-🚧 ¡Pronto subiré un CRUD completo con Java y SQL!
+> Pinea los proyectos que más te representen. Aunque sean simples, si los has hecho tú, valen.
 
 ---
 
-### 🤝 ¿Nos conectamos?
+### 📫 Contacto
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pablocodevs" target="_blank">
@@ -61,15 +55,6 @@
 
 ---
 
-### 🧩 Fun facts sobre mí:
-
-- 💬 Me encanta hablar de código... aunque no siempre me entienda el compilador 😅  
-- 🧠 Aprendo con mapas mentales, Notion y algún que otro post-it  
-- 🎯 Próximo reto: crear una app full stack sin romper todo (mucho)
-
----
-
 <p align="center">
-  <b>Gracias por pasarte por mi perfil 🚀<br/>
-  ¡Nos vemos en el código!</b> 🧑‍💻
+  Gracias por pasarte por mi perfil.
 </p>
