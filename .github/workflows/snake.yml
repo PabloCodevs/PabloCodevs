@@ -3,26 +3,29 @@ name: Generate Snake Animation
 on:
   push:
     branches:
-      - main  # Se ejecutará cuando realices un push a la rama main
-  schedule:
-    - cron: "0 0 * * *"  # Esto se ejecutará todos los días a medianoche
-  workflow_dispatch:  # Permite ejecutar manualmente desde GitHub
+      - main
+  workflow_dispatch:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest  # Ejecutará en una máquina con Ubuntu
+    runs-on: ubuntu-latest
 
     steps:
-      - name: Generar animación de la serpiente
-        uses: Platane/snk@v3  # Usa la acción Platane para generar la serpiente
+      - name: Check out the code
+        uses: actions/checkout@v3
+      
+      - name: Verify git status
+        run: git status # Esto nos ayuda a verificar que estamos en un repositorio de Git
+      
+      - uses: Platane/snk@v3
         with:
-          github_user_name: PabloCodevs  # Tu nombre de usuario de GitHub
+          github_user_name: PabloCodevs
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Hacer commit y push
-        uses: EndBug/add-and-commit@v9  # Esta acción hace commit y push
+      - name: Commit and Push
+        uses: EndBug/add-and-commit@v9
         with:
-          message: "🐍 Actualiza la animación de la serpiente"
-          add: "dist/*.svg"  # Asegúrate de que las imágenes generadas se añaden al commit
+          message: "🐍 Actualiza el Snake"
+          add: "dist/*.svg"
