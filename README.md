@@ -1,6 +1,10 @@
 <h1 align="center">Hola 👋, soy Pablo</h1>
 <h3 align="center">Desarrollador Web Jr. | Estudiante de DAW</h3>
 
+![GitHub followers](https://img.shields.io/github/followers/PabloCodevs?label=Seguidores&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/PabloCodevs?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
+
+
 ---
 
 ### 🚧 Aprendiendo
