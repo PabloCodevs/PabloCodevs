@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCodevs&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollador+Web+en+proceso;Aprendiendo+Java,+SQL+y+mucho+m%C3%A1s;&center=true&width=440&height=45&color=00BFFF&vCenter=true&pause=1000)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollador+Web+Junior;Aprendiendo+Java,+SQL+y+mucho+m%C3%A1s;&center=true&width=440&height=45&color=00BFFF&vCenter=true&pause=1000)
 
 
 ---
