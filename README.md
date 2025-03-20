@@ -4,6 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/PabloCodevs?label=Seguidores&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/PabloCodevs?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCodevs&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
