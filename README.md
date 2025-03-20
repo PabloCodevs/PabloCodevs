@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador+Web+Junior;Aprendiendo+Java,+SQL+y+mucho+m%C3%A1s;&center=true&width=440&height=45&color=20c20e&vCenter=true&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador+Web+Junior;Aprendiendo+Java,+SQL+y+mucho+m%C3%A1s;&center=true&width=440&height=45&color=149414&vCenter=true&pause=1000" />
 </p>
 
 ---
