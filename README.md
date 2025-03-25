@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, soy Pablo</h1>
-<h3 align="center">Desarrollador Web Jr. | Estudiante de DAW</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/PabloCodevs?label=Seguidores&style=social" />
