@@ -11,12 +11,11 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🙍🏻‍♂️ Sobre mí
 
 - 🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)
 - 💻 Apasionado por el desarrollo web
 - 🔍 Me gusta entender bien las bases antes de seguir avanzando
-- 🚶‍♂️ Avanzando paso a paso, sin prisa pero sin pausa
 
 ---
 
@@ -24,8 +23,8 @@
 
 - 🔹 HTML & CSS  
 - 🔹 Java  
-- 🔹 SQL  
-- 🔜 React, Vue, NoSQL
+- 🔹 SQL
+- 🔹 Git  
 
 ---
 
@@ -51,16 +50,7 @@
 
 ## 📌 Repositorios destacados
 
->
->
-
----
-
-## 📸 Serpiente de contribuciones
-
-<p align="center">
-  <img src="dist/github-contribution-grid-snake.svg" alt="Snake GIF" />
-</p>
+> En proceso <
 
 ---
 
@@ -74,4 +64,4 @@
 
 ---
 
-<p align="center">Gracias por pasarte por mi perfil 💙</p>
+<p align="center">Gracias por pasarte por mi perfil 🤝</p>
