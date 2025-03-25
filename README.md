@@ -50,7 +50,7 @@
 
 ## 📌 Repositorios destacados
 
-> En proceso <
+> En proceso
 
 ---
 
