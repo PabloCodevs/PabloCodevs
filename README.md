@@ -20,14 +20,12 @@
 - 💬 Ask me about anything tech-related — I'm happy to help!
 - 🎓 I'm currently studying Web Application Development (DAW);
 - 📫 How to reach me: pcavero.dev@gmail.com;
-
 ## 🛠️ Languages and Tools
 
 <p>
   <a href="https://github.com/PabloCodevs">
     <img width="55%" align="right" alt="PabloCodevs' github stats" src="https://github-readme-stats.vercel.app/api?username=PabloCodevs&show_icons=true&hide_border=true" />
   </a>
-  <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
