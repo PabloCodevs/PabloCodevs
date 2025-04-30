@@ -17,15 +17,16 @@ You can use the website to generate badges: https://shields.io/
 <!-- Imagen alineada a la derecha -->
 <img align="right" width="250" src="https://media.discordapp.net/attachments/621814689994899457/1367215118420672543/e8f453469a3ec97ecd354df465d73913.gif?ex=6813c5cd&is=6812744d&hm=ab0efadfe873f45e1dd356a7654971bb4376f8e691b02c6309300a0d6151d9cd&=&width=625&height=625" />
 
-## Talking about Personal Stuffs:
+## Talking about Personal Stuffs
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
+- 🛠️ I'm currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
 - 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
+- 🤝 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
+- 🤔 I’m looking for help with Design Pattern;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
+- 🎓 Fun-Fact: I have a degree in civil engineering;
 - 📫 How to reach me: murillo_comino@hotmail.com;
+  
 **Languages and Tools:** 
 
 <!-- Your github readme stats
