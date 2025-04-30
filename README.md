@@ -19,6 +19,12 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 - 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
 - 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
 - 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
