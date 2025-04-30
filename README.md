@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Imagen alineada a la derecha -->
-<img align="right" width="400" src="https://media.discordapp.net/attachments/621814689994899457/1367215118420672543/e8f453469a3ec97ecd354df465d73913.gif?ex=6813c5cd&is=6812744d&hm=ab0efadfe873f45e1dd356a7654971bb4376f8e691b02c6309300a0d6151d9cd&=&width=625&height=625" />
+<img align="right" width="300" src="https://media.discordapp.net/attachments/621814689994899457/1367215118420672543/e8f453469a3ec97ecd354df465d73913.gif?ex=6813c5cd&is=6812744d&hm=ab0efadfe873f45e1dd356a7654971bb4376f8e691b02c6309300a0d6151d9cd&=&width=625&height=625" />
 
 ## Talking about Personal Stuffs:
 
