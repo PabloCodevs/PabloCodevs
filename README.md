@@ -13,8 +13,8 @@
 
 ## 🙋‍♂️ Sobre mí
 
-- 🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW), a punto de hackear la Matrix (con buenas prácticas, claro).
-- 💻 Apasionado por crear cosas útiles... o al menos que no rompan al primer clic.
+- 🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW) 2024-2026.
+- 💻 Apasionado por crear cosas sencillas sin que exploten.
 - 🧠 Fan de entender *por qué* algo funciona antes de copiar y pegar como loco.
 - ☕ Productividad basada en café y commits.
 
