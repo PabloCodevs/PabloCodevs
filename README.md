@@ -47,11 +47,10 @@
 
 
 &nbsp;
-
-<!-- Visitor badge -->
 <p align="center">
-  <img alt="ViewCount" src="https://views.whatilearned.today/views/github/PabloCodevs/PabloCodevs.svg" />
+  <img alt="Views" src="https://badges.pufler.dev/visits/PabloCodevs/PabloCodevs" />
 </p>
+
 
 ## ☕ Support me
 <p align="center">
