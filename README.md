@@ -13,11 +13,11 @@
 
 ## Talking about Personal Stuffs
 
-- 🛠️ I'm currently working on small full-stack projects to grow my portfolio;
-- 🌱 I’m currently learning Java, Kotlin and backend tools;
-- 🤝 I’m open to collaborate on open-source or student projects;
+- 🛠️ Actualmente estoy estudiando y realizando líneas de código para asentar mis conocimientos;
+- 🌱 Estoy estudiando DAW donde estoy aprendiendo HTML, CSS, JavaScript, Java, SQL...;
+- 🤝 Estoy abierto a colaborar en cualquier tipo de proyecto para seguir creciendo como persona y ayudar con mis aportes;
 - 🤔 I’m looking for help with Software Architecture and Design Patterns;
-- 💬 Ask me about anything tech-related — I'm happy to help!
+- 💬 Pregúntame cualquier duda que tengas, intentaré resolvértela!;
 - 🎓 I'm currently studying Web Application Development (DAW);
 - 📫 How to reach me: pcavero.dev@gmail.com;
 ## 🛠️ Languages and Tools
