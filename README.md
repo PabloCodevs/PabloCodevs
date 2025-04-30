@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="500px" align="right" alt="Github" src="https://media.discordapp.net/attachments/621814689994899457/1367215118420672543/e8f453469a3ec97ecd354df465d73913.gif?ex=6813c5cd&is=6812744d&hm=ab0efadfe873f45e1dd356a7654971bb4376f8e691b02c6309300a0d6151d9cd&=&width=625&height=625" />
+<img width="30%" align="right" alt="Github" src="https://media.discordapp.net/attachments/621814689994899457/1367215118420672543/e8f453469a3ec97ecd354df465d73913.gif?ex=6813c5cd&is=6812744d&hm=ab0efadfe873f45e1dd356a7654971bb4376f8e691b02c6309300a0d6151d9cd&=&width=625&height=625" />
 
 - 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
 - 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
