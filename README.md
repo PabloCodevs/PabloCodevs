@@ -11,17 +11,17 @@
 <!-- Imagen alineada a la derecha -->
 <img align="right" width="290" src="https://media.discordapp.net/attachments/621814689994899457/1367215118420672543/e8f453469a3ec97ecd354df465d73913.gif?ex=6813c5cd&is=6812744d&hm=ab0efadfe873f45e1dd356a7654971bb4376f8e691b02c6309300a0d6151d9cd&=&width=625&height=625" />
 
-## Talking about Personal Stuffs
+## Sobre mí
 
-- 🛠️ Actualmente estoy estudiando y realizando líneas de código para asentar mis conocimientos;
+- 🎓 Actualmente estoy estudiando Desarrollo de Apliaciones Web (DAW);
 - 🌱 Estoy estudiando DAW donde estoy aprendiendo HTML, CSS, JavaScript, Java, SQL...;
 - 🤝 Estoy abierto a colaborar en cualquier tipo de proyecto para seguir creciendo como persona y ayudar con mis aportes;
-- 🤔 I’m looking for help with Software Architecture and Design Patterns;
 - 💬 Pregúntame cualquier duda que tengas, intentaré resolvértela!;
 - 🎓 I'm currently studying Web Application Development (DAW);
-- 📫 How to reach me: pcavero.dev@gmail.com;
-## 🛠️ Languages and Tools
+- 📫 Contáctame: pcavero.dev@gmail.com;
 
+  
+## 🛠️ Lenguajes y Herramientas
 <p>
   <a href="https://github.com/PabloCodevs">
     <img width="55%" align="right" alt="PabloCodevs' github stats" src="https://github-readme-stats.vercel.app/api?username=PabloCodevs&show_icons=true&hide_border=true" />
