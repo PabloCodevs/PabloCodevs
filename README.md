@@ -49,14 +49,6 @@
   <img alt="Views" src="https://badges.pufler.dev/visits/PabloCodevs/PabloCodevs" />
 </p>
 
-
-## ☕ Support me
-<p align="center">
-  <a href="https://www.buymeacoffee.com/pablocodevs" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
-</p>
-
 ---
 
 <!-- Optional project showcase -->
