@@ -17,7 +17,6 @@
 - 🌱 Estoy estudiando DAW donde estoy aprendiendo HTML, CSS, JavaScript, Java, SQL...;
 - 🤝 Estoy abierto a colaborar en cualquier tipo de proyecto para seguir creciendo como persona y ayudar con mis aportes;
 - 💬 Pregúntame cualquier duda que tengas, intentaré resolvértela!;
-- 🎓 I'm currently studying Web Application Development (DAW);
 - 📫 Contáctame: pcavero.dev@gmail.com;
 
   
