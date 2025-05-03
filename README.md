@@ -42,6 +42,8 @@
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+<code><img width="10%" src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-256x256-fkx4hnvo.png"></code>
+
 
 
 
