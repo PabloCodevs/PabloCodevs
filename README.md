@@ -35,13 +35,9 @@
 <code><img width="10%" src="./assets/intellij.png" alt="logo IntelliJ" /></code>
 </p>
 
-&nbsp;
-
-<!--
 <p align="center">
   <img alt="Views" src="https://badges.pufler.dev/visits/PabloCodevs/PabloCodevs" />
 </p>
--->
 
 ##
 
