@@ -53,6 +53,8 @@
 
 ---
 
+<img src="./assets/snake.gif" alt="Snake gif" width="100%" />
+
 <!-- Optional project showcase -->
 <!-- 
 <p align="center">
