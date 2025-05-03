@@ -47,10 +47,11 @@
 
 &nbsp;
 
+<!--
 <p align="center">
   <img alt="Views" src="https://badges.pufler.dev/visits/PabloCodevs/PabloCodevs" />
 </p>
-
+-->
 ---
 
 <img src="./assets/snake.svg" alt="Snake SVG" width="100%" />
