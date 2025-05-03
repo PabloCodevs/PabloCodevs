@@ -23,6 +23,7 @@
 - 📫 Contáctame: pcavero.dev@gmail.com.
 
 ## 🛠️ Lenguajes y Herramientas
+<br>
 <p>
   <a href="https://github.com/PabloCodevs">
     <img width="55%" align="right" alt="PabloCodevs' github stats" src="https://github-readme-stats.vercel.app/api?username=PabloCodevs&show_icons=true&hide_border=true" />
@@ -40,7 +41,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 </p>
 
-&nbsp;
 &nbsp;
 
 <!--
