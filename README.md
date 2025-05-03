@@ -42,7 +42,8 @@
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains_intellij/jetbrains_intellij-ar21.svg"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/IntelliJ_IDEA_Logo.svg"></code>
+
 </p>
 
 &nbsp;
