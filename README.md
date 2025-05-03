@@ -1,12 +1,5 @@
 <h1 align="center">PabloCodevs</a> <img src="./assets/hand.gif" height="32" /></h1>
 
-<!-- Badges -->
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PabloCodevs)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://es.linkedin.com/in/pablocodevs)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pcavero.dev@gmail.com)
-
-
-
 <!-- Imagen alineada a la derecha -->
 <img align="right" width="290" src="https://media.discordapp.net/attachments/621814689994899457/1367215118420672543/e8f453469a3ec97ecd354df465d73913.gif?ex=6813c5cd&is=6812744d&hm=ab0efadfe873f45e1dd356a7654971bb4376f8e691b02c6309300a0d6151d9cd&=&width=625&height=625" />
 
@@ -39,16 +32,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
 <code><img width="10%" src="./assets/intellij.png" alt="logo IntelliJ" /></code>
-
-
-
-
-
-
-
-
-
-
 </p>
 
 &nbsp;
@@ -59,6 +42,15 @@
 </p>
 -->
 ---
+
+
+<!-- Badges -->
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PabloCodevs)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://es.linkedin.com/in/pablocodevs)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pcavero.dev@gmail.com)
+<img alt="Views" src="https://badges.pufler.dev/visits/PabloCodevs/PabloCodevs" />
+
+
 
 <img src="./assets/snake.svg" alt="Snake SVG" width="100%" />
 
