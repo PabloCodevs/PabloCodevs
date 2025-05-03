@@ -1,8 +1,4 @@
-<div align="center">
-  <h2>
-    PabloCodevs <img src="./assets/hand.gif" alt="hand waving" width="32" style="vertical-align: middle;" />
-  </h2>
-</div>
+<h1 align="center">PabloCodevs</a> <img src="./assets/hand.gif" height="32" /></h1>
 
 <!-- Badges -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PabloCodevs)
