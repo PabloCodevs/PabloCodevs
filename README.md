@@ -14,11 +14,11 @@
 ## Sobre mí
 
 - 🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW), aprendiendo HTML, CSS, JavaScript, Java y SQL.
-- 🌱 Estoy estudiando DAW donde estoy aprendiendo HTML, CSS, JavaScript, Java, SQL...;
-- 🤝 Estoy abierto a colaborar en cualquier tipo de proyecto para seguir creciendo como persona y ayudar con mis aportes;
-- 💬 Pregúntame cualquier duda que tengas, intentaré resolvértela!;
-- 🎓 I'm currently studying Web Application Development (DAW);
-- 📫 Contáctame: pcavero.dev@gmail.com;
+- 🌱 Apasionado por la programación y el desarrollo web.
+- 🤝 Abierto a colaborar en proyectos para seguir creciendo y aportar valor.
+- 💬 Si tienes alguna duda o necesitas ayuda, ¡estaré encantado de echarte una mano!
+- 📫 Puedes contactarme en: pcavero.dev@gmail.com
+
 
   
 ## 🛠️ Lenguajes y Herramientas
