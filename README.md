@@ -1,5 +1,6 @@
 <!-- Your title -->
-<h2>PabloCodevs</h2> <img src="./assets/hand.gif" alt="hand waving" width="50" style="display:inline-block; vertical-align:middle;">
+<h2>PabloCodevs <img src="./assets/hand.gif" alt="hand waving" width="32" style="vertical-align: middle;" /></h2>
+
 
 <!-- Badges -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PabloCodevs)
