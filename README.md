@@ -15,7 +15,7 @@
 
 - 🎓 Estoy estudiando Desarrollo de Apliaciones Web (DAW);
 - 🌱 Aprendiendo HTML, CSS, JavaScript, Java, SQL...;
-- 🤝 Estoy abierto a colaborar en cualquier tipo de proyecto para seguir creciendo como persona y ayudar con mis aportes;
+- 🤝 Me gustaría colaborar en cualquier tipo de proyecto para seguir creciendo como persona y ayudar con mis aportes;
 - 💬 Pregúntame cualquier duda que tengas, intentaré resolvértela!;
 - 📫 Contáctame: pcavero.dev@gmail.com;
 
