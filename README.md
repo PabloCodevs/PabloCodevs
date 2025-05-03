@@ -17,7 +17,7 @@
 - 🌱 Aprendiendo HTML, CSS, JavaScript, Java y SQL poco a poco.
 - 🤝 Me gusta colaborar en proyectos para seguir aprendiendo y aportar lo que pueda.
 - 💬 Si tienes alguna duda, pregúntame sin problema, ¡intentaré ayudarte!
-- 📫 Puedes contactarme en: pcavero.dev@gmail.com
+- 📫 Puedes contactarme en: pcavero.dev@gmail.com;
 
   
 ## 🛠️ Lenguajes y Herramientas
