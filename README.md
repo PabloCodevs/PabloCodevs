@@ -49,10 +49,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pcavero.dev@gmail.com)
 <img alt="Views" src="https://badges.pufler.dev/visits/PabloCodevs/PabloCodevs" />
 
-
-
+<!-- Serpiente -->
 <img src="./assets/snake.svg" alt="Snake SVG" width="100%" />
-
 <!-- Optional project showcase -->
 <!-- 
 <p align="center">
