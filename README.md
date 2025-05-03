@@ -45,6 +45,8 @@
 
 <!-- Serpiente -->
 <img src="./assets/snake.svg" alt="Snake SVG" width="100%" />
+
+
 <!-- Optional project showcase -->
 <!-- 
 <p align="center">
