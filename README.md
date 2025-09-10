@@ -1,9 +1,12 @@
 <h1 align="center">PabloCodevs</a> <img src="./assets/hand.gif" height="32" /></h1>
 
-- Estoy estudiando Desarrollo de Apliaciones Web (DAW).
-- Me gustaría colaborar en cualquier tipo de proyecto para seguir creciendo como persona y ayudar con mis aportes.
-- Pregúntame cualquier duda que tengas, intentaré resolverla!
-- Contáctame: pcavero.dev@gmail.com.
+- Soy un **novato en programación** 
+- Me gusta **leer** y escuchar **música**  
+- De niño soñaba con ser **bombero o futbolista**,  
+- pero la **realidad me llevó al mundo de la informática**  
+- Al principio solo tenía contacto con los **videojuegos**,  
+- poco a poco fui abriendo mi mente e investigando más,  
+- y ahora **cada vez me gusta más la programación ❤️**  
 
 ## 🛠️ Lenguajes y Herramientas
 <br>
