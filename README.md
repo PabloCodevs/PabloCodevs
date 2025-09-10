@@ -42,9 +42,9 @@
 
 <p>
   <a href="https://github.com/PabloCodevs">
-    <img width="55%" align="right" alt="PabloCodevs' github stats" src="https://github-readme-stats.vercel.app/api?username=PabloCodevs&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="PabloCodevs' github stats" src="https://github-readme-stats.vercel.app/api?username=PabloCodevs&theme=radical&&show_icons=true&hide_border=true" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCodevs&theme=normal&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCodevs&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 <br>
 
