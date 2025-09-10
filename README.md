@@ -40,10 +40,11 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/php.svg"></code>
 
-
+<p>
   <a href="https://github.com/PabloCodevs">
     <img width="55%" align="right" alt="PabloCodevs' github stats" src="https://github-readme-stats.vercel.app/api?username=PabloCodevs&show_icons=true&hide_border=true" />
   </a>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCodevs&theme=normal&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p>
 
 
@@ -74,10 +75,7 @@
 ##
 
 <!-- Badges -->
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PabloCodevs)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://es.linkedin.com/in/pablocodevs)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pcavero.dev@gmail.com)
-<img alt="Views" src="https://badges.pufler.dev/visits/PabloCodevs/PabloCodevs" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pablocodevs/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pcavero.dev@gmail.com) 
 
 <!-- Serpiente -->
 <img src="./assets/snake.svg" alt="Snake SVG" width="100%" />
@@ -92,12 +90,4 @@
 </p>
 -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pablocodevs/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pcavero.dev@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PabloCodevs&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PabloCodevs&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCodevs&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PabloCodevs&limit=5&theme=normal&combine_all_yearly_contributions=true)
