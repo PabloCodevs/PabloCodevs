@@ -5,8 +5,8 @@
 - De niño soñaba con ser **bombero o futbolista**,  
 - pero la **realidad me llevó al mundo de la informática**  
 - Al principio solo tenía contacto con los **videojuegos**,  
-- poco a poco fui abriendo mi mente e investigando más,  
-- y ahora **cada vez me gusta más la programación ❤️**  
+- poco a poco fui investigando más, y desde entonces  
+- **me gusta más la programación ❤️**  
 
 ## 🛠️ Lenguajes y Herramientas
 <br>
