@@ -13,7 +13,7 @@
 
 **Un poco sobre mí:**
 
-- 👨‍🏛 Actualmente estoy cursando mi último año en **DAW**.
+- 📚 Actualmente estoy cursando mi último año en **DAW**.
 - 💻 Me gustaría realizar el **Curso de Especialización en Inteligencia Artificial y Big Data**.
 - 🌱 Actualmente estoy aprendiendo **Desarrollo Web e Inglés**. 
 - 🤔 Mis aficiones son los **juegos de estrategia, la música y la lectura**.
