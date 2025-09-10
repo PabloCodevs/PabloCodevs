@@ -1,9 +1,5 @@
 <h1 align="center">PabloCodevs</a> <img src="./assets/hand.gif" height="32" /></h1>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=21&duration=3000&pause=1000&color=0E8C65&width=435&lines=%C2%A1Hola%2C+soy+Pablo!;Estoy+comenzando+en+el+desarrollo+web.)](https://git.io/typing-svg)
-
-
 - 🎓 Estoy estudiando Desarrollo de Apliaciones Web (DAW).
 - 🤝 Me gustaría colaborar en cualquier tipo de proyecto para seguir creciendo como persona y ayudar con mis aportes.
 - 💬 Pregúntame cualquier duda que tengas, intentaré resolverla!
