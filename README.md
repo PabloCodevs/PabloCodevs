@@ -79,7 +79,7 @@
 ##
 
 <!-- Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/pablocodevs/](https://www.linkedin.com/in/pablocodevs/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pcavero.dev@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pablocodevs/])) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pcavero.dev@gmail.com) 
 
 <!-- Serpiente -->
 <img src="./assets/snake.svg" alt="Snake SVG" width="100%" />
