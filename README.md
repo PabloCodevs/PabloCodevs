@@ -20,7 +20,7 @@
 - 💼 Me considero **Trabajador y organizado, con margen para mejorar siempre**.
 - 💬 Si tienes dudas, **no dudes en preguntarme**.
 
-<br><br>
+<h2 dir="auto"></h2>
 **Lenguajes y Herramientas:**  
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
@@ -33,7 +33,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudiocode.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/intellijidea.svg"></code>
 <code><img height="20" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/phpmyadmin-icon.png"></code>
-<br><br>
+<h2 dir="auto"></h2>
 **Tecnologías pendientes de aprender**
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
