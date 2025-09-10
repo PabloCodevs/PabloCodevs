@@ -40,7 +40,14 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/php.svg"></code>
 
-<!-- Futuro cambio -->
+
+  <a href="https://github.com/PabloCodevs">
+    <img width="55%" align="right" alt="PabloCodevs' github stats" src="https://github-readme-stats.vercel.app/api?username=PabloCodevs&show_icons=true&hide_border=true" />
+  </a>
+</p>
+
+
+<!--
 ## 🛠️ Lenguajes y Herramientas
 <br>
 <p>
@@ -63,7 +70,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
 <code><img width="10%" src="./assets/intellij.png" alt="logo IntelliJ" /></code>
 </p>
-<-- Futuro cambio -->
+ -->
 ##
 
 <!-- Badges -->
