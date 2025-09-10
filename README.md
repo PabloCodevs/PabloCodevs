@@ -2,12 +2,6 @@
 
 ### Hola 👋, soy Pablo.
 
-[![Gmail Badge](https://img.shields.io/badge/-pcavero.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pcavero.dev@gmail.com)](mailto:pcavero.dev@gmail.com)
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:pcavero.dev@gmail.com)
-
-
-
 - Soy un **novato en programación** 
 - Me gusta **leer** y escuchar **música**  
 - De pequeño soñaba con ser **bombero o futbolista**,  
