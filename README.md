@@ -21,7 +21,7 @@
 - 💬 Si tienes dudas, **no dudes en preguntarme**.
 
 
-**Languages and Tools:**  
+**Lenguajes y Herramientas:**  
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
@@ -34,35 +34,13 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/intellijidea.svg"></code>
 <code><img height="20" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/phpmyadmin-icon.png"></code>
 
-
-
-
-
-
-
-
-
-
-
-
-**Technology being learned**
+**Tecnologías por aprender**
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/php.svg"></code>
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- Futuro cambio -->
 ## 🛠️ Lenguajes y Herramientas
 <br>
 <p>
@@ -85,7 +63,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
 <code><img width="10%" src="./assets/intellij.png" alt="logo IntelliJ" /></code>
 </p>
-
+<-- Futuro cambio -->
 ##
 
 <!-- Badges -->
