@@ -91,5 +91,3 @@
   </a>
 </p>
 -->
-
-![](https://github-contributor-stats.vercel.app/api?username=PabloCodevs&limit=5&theme=normal&combine_all_yearly_contributions=true)
