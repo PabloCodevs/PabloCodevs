@@ -1,5 +1,9 @@
 <h1 align="center">PabloCodevs</a> <img src="./assets/hand.gif" height="32" /></h1>
 
+<a href="mailto:pcavero.dev@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+</a>
+
 ### Hola 👋, soy Pablo.
 - Soy un **novato en programación** 
 - Me gusta **leer** y escuchar **música**  
