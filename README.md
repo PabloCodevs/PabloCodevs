@@ -2,11 +2,11 @@
 
 - Soy un **novato en programación** 
 - Me gusta **leer** y escuchar **música**  
-- De niño soñaba con ser **bombero o futbolista**,  
-- pero la **realidad me llevó al mundo de la informática**  
+- De pequeño soñaba con ser **bombero o futbolista**,  
+- Pero la **realidad me llevó al mundo de la informática**  
 - Al principio solo tenía contacto con los **videojuegos**,  
-- poco a poco fui investigando más, y desde entonces  
-- **me gusta más la programación ❤️**  
+- Poco a poco fui investigando más, y desde entonces  
+- **Me gusta más la programación ❤️**  
 
 ## 🛠️ Lenguajes y Herramientas
 <br>
