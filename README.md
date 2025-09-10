@@ -9,7 +9,7 @@
 - Al principio solo tenía contacto con los **videojuegos**,  
 - Poco a poco fui investigando más, y desde entonces  
 - **Me gusta más la programación ❤️**
-<br><br>
+<br>
 
 **Un poco sobre mí:**
 
@@ -33,12 +33,14 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudiocode.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/intellijidea.svg"></code>
 <code><img height="20" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/phpmyadmin-icon.png"></code>
-<h2 dir="auto"></h2>
+
 **Tecnologías pendientes de aprender**
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/php.svg"></code>
+<h2 dir="auto"></h2>
+
 
 <p>
   <a href="https://github.com/PabloCodevs">
