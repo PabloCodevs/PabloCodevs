@@ -5,10 +5,10 @@
 - Soy un **Rookie en programación** 
 - Me gusta **leer** y escuchar **música**  
 - De pequeño soñaba con ser **bombero o futbolista**,  
-- Pero la **realidad me llevó al mundo de la informática**  
+- Pero la **realidad me llevó al mundo de la informática.**  
 - Al principio solo tenía contacto con los **videojuegos**,  
 - Poco a poco fui investigando más, y desde entonces  
-- **Me gusta más la programación ❤️**
+- **Me gusta más la informática ❤️**
 <br>
 
 **Un poco sobre mí:**
