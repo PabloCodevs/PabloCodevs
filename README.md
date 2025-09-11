@@ -12,7 +12,7 @@
 <br>
 
 **Un poco sobre mí:**
-
+ 
 - 📚 Actualmente estoy cursando mi último año en **DAW**.
 - 💻 Me gustaría realizar el **Curso de Especialización en Inteligencia Artificial y Big Data**.
 - 🌱 Actualmente estoy aprendiendo **Desarrollo Web e Inglés**. 
@@ -21,6 +21,7 @@
 - 💬 Si tienes dudas, **no dudes en preguntarme**.
 
 <h2 dir="auto"></h2>
+
 **Lenguajes y Herramientas:**
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
