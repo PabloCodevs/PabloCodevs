@@ -2,7 +2,7 @@
 
 ### Hola 👋, soy Pablo.
 
-- Soy un **novato en programación** 
+- Soy un **Rookie en programación** 
 - Me gusta **leer** y escuchar **música**  
 - De pequeño soñaba con ser **bombero o futbolista**,  
 - Pero la **realidad me llevó al mundo de la informática**  
