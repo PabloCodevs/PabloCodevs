@@ -2,23 +2,17 @@
 
 ### Hola 👋, soy Pablo.
 
-- Soy un **Rookie en programación** 
+- Soy un **Rookie en programación**
 - Me gusta **leer** y escuchar **música**  
-- De pequeño soñaba con ser **bombero o futbolista**,  
-- Pero la **realidad me llevó al mundo de la informática.**  
-- Al principio solo tenía contacto con los **videojuegos**,  
-- Poco a poco fui investigando más, y desde entonces  
-- **Me gusta más la informática ❤️**
 <br>
 
 **Un poco sobre mí:**
  
 - 📚 Actualmente estoy cursando mi último año en **DAW**.
-- 💻 Me gustaría realizar el **Curso de Especialización en Inteligencia Artificial y Big Data**.
+- 💻 Al terminar, realizaré el **Curso de Especialización en Inteligencia Artificial y Big Data**.
 - 🌱 Actualmente estoy aprendiendo **Desarrollo Web e Inglés**. 
-- 🤔 Mis aficiones son los **juegos de estrategia, la música y la lectura**.
 - 💼 Me considero **Trabajador y organizado, con margen para mejorar siempre**.
-- 💬 Si tienes dudas, **no dudes en preguntarme**.
+
 
 <h2 dir="auto"></h2>
 
