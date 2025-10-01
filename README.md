@@ -1,94 +1,67 @@
-<h1 align="center">PabloCodevs</a> <img src="./assets/hand.gif" height="32" /></h1>
+<h1 align="center"><b>Hi , I'm Pablo</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-### Hola 👋, soy Pablo.
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
 
-- Soy un **Rookie en programación**
-- Me gusta **leer** y escuchar **música**  
-<br>
+I am a Web Applications Development (DAW) student, currently in my second year. I am interested in learning and improving my skills in **front-end and back-end development**, and I work on small personal projects to practice. I love learning new things and building useful and creative applications.
 
-**Un poco sobre mí:**
+- 🌱 Currently learning:
+  - HTML, CSS, and PHP
+  - MySQL and Git
+  - JavaScript (soon) and Angular (future)
+- 👯 Looking forward to collaborating on open source projects.
+- ✔ Ask me about anything related to programming, I’ll be happy to help.<br>
+- Outside tech, 💜 I play the Asturian bagpipes, 🎵 listen to music, and 📖 enjoy learning about Asturian culture.
+- 📫 Reach out to me at: <a href="mailto:pcavero.dev@gmail.com">pcavero.dev@gmail.com</a>
+## My Skills Include
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
  
-- 📚 Actualmente estoy cursando mi último año en **DAW**.
-- 💻 Al terminar, realizaré el **Curso de Especialización en Inteligencia Artificial y Big Data**.
-- 🌱 Actualmente estoy aprendiendo **Desarrollo Web e Inglés**. 
-- 💼 Me considero **Trabajador y organizado, con margen para mejorar siempre**.
 
 
-<h2 dir="auto"></h2>
-
-**Lenguajes y Herramientas:**
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/java.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sublimetext.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudiocode.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/intellijidea.svg"></code>
-<code><img height="20" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/phpmyadmin-icon.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/docker.svg"></code>
+</span>
 
 
-**Tecnologías pendientes:**
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/php.svg"></code>
-<h2 dir="auto"></h2>
-
-
-<p>
-  <a href="https://github.com/PabloCodevs">
-    <img width="55%" align="right" alt="PabloCodevs' github stats" src="https://github-readme-stats.vercel.app/api?username=PabloCodevs&theme=radical&&show_icons=true&hide_border=true" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCodevs&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-<br>
-
-<br><br>
-
-<!--
-## 🛠️ Lenguajes y Herramientas
-<br>
-<p>
-  <a href="https://github.com/PabloCodevs">
-    <img width="55%" align="right" alt="PabloCodevs' github stats" src="https://github-readme-stats.vercel.app/api?username=PabloCodevs&show_icons=true&hide_border=true" />
-  </a>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
-<code><img width="10%" src="./assets/intellij.png" alt="logo IntelliJ" /></code>
-</p>
- -->
-##
-
-<!-- Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablocodevs/) 
-[![pcavero.dev@gmail.com](https://img.shields.io/badge/pcavero.dev@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:pcavero.dev@gmail.com)
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 
-<!-- Serpiente -->
-<img src="./assets/snake.svg" alt="Snake SVG" width="100%" />
 
 
-<!-- Optional project showcase -->
-<!-- 
-<p align="center">
-  <a href="https://github.com/PabloCodevs/your-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PabloCodevs&repo=your-project" />
-  </a>
-</p>
--->
+</span>
+
+## Check out my Social Media
+
+<a href= "https://www.instagram.com/valenwerle/?hl=es">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href="https://www.tiktok.com/@vapixel_" >
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
+</a>
+<a href="https://www.twitch.tv/valenwerle" >
+  <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
+</a>
+<a href="https://www.youtube.com/@ValenWerle">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
+</a>
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=valentinawerle&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)](https://github.com/valentinawerle)
+</div>
