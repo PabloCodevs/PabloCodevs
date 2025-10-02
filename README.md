@@ -24,7 +24,7 @@ Fun fact: I challenge myself by building small web apps to practice new skills
 <br><br>
 # 💻 My Tech Stack
 
-This repository showcases the technologies I use and learn in my projects.
+Here are the main technologies I currently work with:
 
 ---
 
