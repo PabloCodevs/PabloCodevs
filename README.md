@@ -10,7 +10,15 @@
 <img align="right" height="200" src="https://gifdb.com/images/high/capoo-cat-typing-on-desk-gh8k0cjf5hq4vy2p.webp"  />
 
 <br><br>
-Currently learning: HTML, CSS, PHP, MySQL, Git, improving Java Goals: Build functional web apps and grow as a confident full-stack developer Fun fact: I challenge myself by building small web apps to practice new skills
+Currently learning: HTML, CSS, PHP, MySQL, Git, improving Java 
+
+<br>
+
+Goals: Build functional web apps and grow as a confident full-stack developer
+
+<br>
+
+Fun fact: I challenge myself by building small web apps to practice new skills
 </p>
 
 <br><br>
