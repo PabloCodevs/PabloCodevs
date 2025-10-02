@@ -7,7 +7,7 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-<img align="right" height="200" src="https://c.tenor.com/vPsMJKGs3pwAAAAd/tenor.gif"  />
+<img align="right" height="200" src="[https://c.tenor.com/vPsMJKGs3pwAAAAd/tenor.gif](https://gifdb.com/images/high/capoo-cat-typing-on-desk-gh8k0cjf5hq4vy2p.webp)"  />
 <br><br>
 Currently learning: HTML, CSS, PHP, MySQL, Git, improving Java Goals: Build functional web apps and grow as a confident full-stack developer Fun fact: I challenge myself by building small web apps to practice new skills
 </p>
