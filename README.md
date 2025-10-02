@@ -8,6 +8,9 @@
 
 <p align="left">
 <img align="right" height="200" src="https://c.tenor.com/vPsMJKGs3pwAAAAd/tenor.gif"  />
+
+  <img width="498" height="396" alt="image" src="https://github.com/user-attachments/assets/41120fb8-975b-4f7c-a733-a6bd83dd6fcf" />
+
 <br><br>
 Currently learning: HTML, CSS, PHP, MySQL, Git, improving Java Goals: Build functional web apps and grow as a confident full-stack developer Fun fact: I challenge myself by building small web apps to practice new skills
 </p>
