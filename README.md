@@ -16,7 +16,7 @@ Currently learning: HTML, CSS, PHP, MySQL, Git, improving Java
 
 Goals: Build functional web apps and grow as a confident full-stack developer
 
-<br>
+<br><br>
 
 Fun fact: I challenge myself by building small web apps to practice new skills
 </p>
