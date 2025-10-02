@@ -15,6 +15,7 @@
 <img align="right" height="200" src="https://c.tenor.com/vPsMJKGs3pwAAAAd/tenor.gif"  />
 
 ###
+<br>
 
 <p align="left">📚 I'm currently learning HTML, CSS, PHP, MySQL, Git, and improving my Java skills  <br>
 🎯 Goals: Build functional web apps and become a confident junior full-stack developer <br>
