@@ -8,17 +8,16 @@
 
 <p align="left">
 <img align="right" height="200" src="https://c.tenor.com/vPsMJKGs3pwAAAAd/tenor.gif"  />
+<br><br>
 📚 Currently learning: HTML, CSS, PHP, MySQL, Git, improving Java <br>
 🎯 Goals: Build functional web apps and grow as a confident full-stack developer <br>
 🎲 Fun fact: I challenge myself by building small web apps to practice new skills
 </p>
 
----
-
+<br><br>
 <h2 align="left">Skills & Technologies</h2>
 
 <div align="left" style="margin-bottom: 10px;">
-  <b>Languages:</b> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
@@ -28,7 +27,6 @@
 </div>
 
 <div align="left">
-  <b>Tools & Platforms:</b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
