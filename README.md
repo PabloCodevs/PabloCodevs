@@ -84,4 +84,8 @@
 
 <img src="https://raw.githubusercontent.com/PabloCodevs/PabloCodevs/output/snake.svg" alt="Snake animation" />
 
+<!-- Serpiente -->
+<img src="./assets/snake.svg" alt="Snake SVG" width="100%" />
+
+
 ###
