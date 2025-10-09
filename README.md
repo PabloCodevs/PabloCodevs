@@ -1,7 +1,7 @@
 <h1 align="center"><img  height="45" width="45" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Gif de mano saludando" /> Hi, I'm Pablo</h1>
 
 <p align="center">
-  💻 Junior Web Developer | Based in Spain
+  Junior Web Developer | Based in Spain
   <br><br>
   Focused on full-stack web development with <b>PHP</b>, <b>MySQL</b>, and modern web technologies.
 </p>
