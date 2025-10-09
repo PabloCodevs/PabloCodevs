@@ -13,6 +13,7 @@
 <img align="right" height="180" src="https://gifdb.com/images/high/capoo-cat-typing-on-desk-gh8k0cjf5hq4vy2p.webp" alt="coding cat"/>
 
 I’m currently studying Web Application Development and working on improving my full-stack skills with PHP, MySQL, and modern web technologies.
+<br>
 I enjoy creating functional web apps and exploring both frontend and backend development.
 
 Currently learning **Docker**, **Git**, and web deployment practices.<br><br><br><br>
