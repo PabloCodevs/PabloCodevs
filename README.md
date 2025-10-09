@@ -1,7 +1,10 @@
 <h1 align="center"><img  height="45" width="45" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Gif de mano saludando" /> Hi, I'm Pablo</h1>
 
 <p align="center">
-  💻 Junior Web Developer | <img align="left" alt="Brazil" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Robertooo25/Country-Flags/a5f222ca2db940a5202854bfad4320ad191e84af/rectangular_flags_SVG/spain-svgrepo-com.svg"/> Based in Spain  
+  💻 Junior Web Developer |
+  <img alt="Spain" width="24" style="vertical-align: middle; margin: 0 6px;" src="https://raw.githubusercontent.com/Robertooo25/Country-Flags/a5f222ca2db940a5202854bfad4320ad191e84af/rectangular_flags_SVG/spain-svgrepo-com.svg" />
+  Based in Spain  
+  <br>
   Focused on full-stack web development with PHP, MySQL, and modern web technologies.
 </p>
 
