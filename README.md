@@ -1,13 +1,13 @@
 <h1 align="center"><img  height="45" width="45" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Gif de mano saludando" /> Hi, I'm Pablo</h1>
 
 <p align="center">
-  💻 Junior Web Developer | 🇪🇸 Based in Spain  
+  💻 Junior Web Developer | <img align="left" alt="Brazil" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Robertooo25/Country-Flags/a5f222ca2db940a5202854bfad4320ad191e84af/rectangular_flags_SVG/spain-svgrepo-com.svg"/> Based in Spain  
   Focused on full-stack web development with PHP, MySQL, and modern web technologies.
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 <img align="right" height="180" src="https://gifdb.com/images/high/capoo-cat-typing-on-desk-gh8k0cjf5hq4vy2p.webp" alt="coding cat"/>
 
@@ -15,34 +15,34 @@ I'm a **Junior Web Developer** currently completing my studies in Web Applicatio
 I build personal projects to keep improving my skills in **PHP, MySQL, HTML, CSS, and JavaScript**.  
 My goal is to become a confident **full-stack developer**, mastering both frontend and backend.
 
-📚 Currently learning **Docker**, **Git**, and web deployment practices.
+Currently learning **Docker**, **Git**, and web deployment practices.
 
 ---
 
 ## 💻 Tech Stack
 
-### 🧩 Languages & Frameworks
+### Languages & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Tools & Version Control
+### Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🎨 Design & Prototyping
+### Design & Prototyping
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Technologies |
 |----------|--------------|---------------|
@@ -53,7 +53,7 @@ My goal is to become a confident **full-stack developer**, mastering both fronte
 -->
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 
 <div align="center">
@@ -64,20 +64,20 @@ My goal is to become a confident **full-stack developer**, mastering both fronte
 
 ---
 
-## 🕓 Recent Activity
+## Recent Activity
 
 ![PabloCodevs's Graph](https://github-readme-activity-graph.vercel.app/graph?username=PabloCodevs&theme=tokyo-night&hide_border=true)
 
 ---
 
 <!--
-## 🐍 Contributions
+## Contributions
 
 <img src="https://raw.githubusercontent.com/PabloCodevs/PabloCodevs/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation"/>
 -->
 ---
 
-## 📫 Contact
+## Contact
 
 <p align="center">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pcavero.dev@gmail.com&su=Contact%20from%20GitHub&body=Hello%20Pablo!%20I%20found%20your%20profile%20on%20GitHub..." target="_blank">
