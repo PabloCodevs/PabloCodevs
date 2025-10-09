@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Junior Web Developer&nbsp;|&nbsp;
-  <img alt="Spain Flag" width="28" style="vertical-align: middle; border-radius: 3px; margin: 0 5px;" src="https://raw.githubusercontent.com/Robertooo25/Country-Flags/a5f222ca2db940a5202854bfad4320ad191e84af/rectangular_flags_SVG/spain-svgrepo-com.svg" />
+  <img alt="Spain Flag" width="22" style="vertical-align: -4px; border-radius: 2px; margin: 0 4px;" src="https://raw.githubusercontent.com/Robertooo25/Country-Flags/a5f222ca2db940a5202854bfad4320ad191e84af/rectangular_flags_SVG/spain-svgrepo-com.svg" />
   Based in Spain  
   <br><br>
   <span style="font-size: 15px;">Focused on full-stack web development with <b>PHP</b>, <b>MySQL</b>, and modern web technologies.</span>
