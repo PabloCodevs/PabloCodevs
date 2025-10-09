@@ -15,7 +15,7 @@
 I’m currently studying Web Application Development and working on improving my full-stack skills with PHP, MySQL, and modern web technologies.
 I enjoy creating functional web apps and exploring both frontend and backend development.
 
-Currently learning **Docker**, **Git**, and web deployment practices.<br><br><br>
+Currently learning **Docker**, **Git**, and web deployment practices.<br><br><br><br>
 
 
 ---
