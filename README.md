@@ -16,7 +16,7 @@ I’m currently studying Web Application Development and working on improving my
 <br><br>
 I enjoy creating functional web apps and exploring both frontend and backend development.
 
-Currently learning **Docker**, **Git**, and web deployment practices.<br><br>
+Currently learning **Docker**, **Git**, and web deployment practices.<br><br><br>
 
 
 ---
