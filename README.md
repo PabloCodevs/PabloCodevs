@@ -80,9 +80,9 @@ My goal is to become a confident **full-stack developer**, mastering both fronte
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:pcavero.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail"/>
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pcavero.dev@gmail.com&su=Contact%20from%20GitHub&body=Hello%20Pablo!%20I%20found%20your%20profile%20on%20GitHub..." target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail"/>
+</a>
   <a href="https://www.linkedin.com/in/pablocodevs/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
   </a>
