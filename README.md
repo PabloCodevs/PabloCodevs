@@ -37,5 +37,6 @@ I’m **Pablo**, a junior web developer based in Spain.  I focus on the integrat
 ---
 
 **How to reach me:**
-![LinkedIn](https://www.linkedin.com/in/pablocodevs/?originalSubdomain=es) | [Email](mailto:pcavero.dev@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablocodevs) | [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pcavero.dev@gmail.com)
 
