@@ -38,6 +38,8 @@ I’m **Pablo**, a junior web developer based in Spain.  I focus on the integrat
 ![PabloCodevs's GitHub Stats](https://readme-stats-github.pages.dev/api?username=PabloCodevs)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=PabloCodevs)
 -->
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablocodevs)
 
 
