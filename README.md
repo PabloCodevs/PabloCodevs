@@ -1,5 +1,7 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
+**`Junior Web Developer`**
+
 I’m **Pablo**, a junior web developer based in Spain.  I focus on the integration between Java (Spring) backends and Vue.js frontends. I have experience managing databases with MySQL and using Docker for containerized development environments.
 
 **Lately, I’ve been working with:**
