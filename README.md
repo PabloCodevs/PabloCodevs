@@ -28,5 +28,14 @@ I’m **Pablo**, a junior web developer based in Spain.  I focus on the integrat
 * **Hobbies:** series, gym, building things 
 ---
 
+
+### My GitHub Stats
+
+![PabloCodevs's GitHub Stats](https://readme-stats-github.pages.dev/api?username=PabloCodevs)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=PabloCodevs)
+
+---
+
 **How to reach me:**
 [LinkedIn]([tu-enlace](https://www.linkedin.com/in/pablocodevs/?originalSubdomain=es)) | [Email](mailto:pcavero.dev@gmail.com)
+
