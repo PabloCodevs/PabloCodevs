@@ -1,5 +1,106 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:2563eb&height=220&section=header&text=Pablo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Angular%20%2B%20Ionic&descAlignY=58&descSize=20" width="100%"/> </div> <br/> <table align="center"> <tr> <td valign="top" width="60%"> <h3>Sobre mí</h3> <p> Graduado en Desarrollo de Aplicaciones Web (DAW), actualmente incorporado a mi primera posición profesional como desarrollador frontend, trabajando principalmente con <b>Angular</b> e <b>Ionic</b> en entorno de empresa. Cuento también con experiencia previa en <b>Vue</b> y <b>TypeScript</b>, adquirida durante la formación y proyectos personales. </p> <p> Mi enfoque actual está en consolidar buenas prácticas de desarrollo frontend, profundizar en el ecosistema de Angular y construir una base sólida como desarrollador de producto. </p> </td> <td valign="top" width="40%"> <h3>Estado actual</h3> <ul> <li>Trabajando con Angular e Ionic en un entorno profesional</li> <li>Consolidando fundamentos de TypeScript</li> <li>Explorando Vue como stack complementario</li> <li>Preparando mis primeros proyectos públicos</li> </ul> </td> </tr> </table> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:1e293b&height=3&section=header" width="100%"/> <h3>Stack tecnológico</h3> <img src="https://skillicons.dev/icons?i=angular,ionic,vue,ts,js,html,css,git,github,vscode&theme=dark" /> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:1e293b&height=3&section=header" width="100%"/> </div> <br/> <div align="center"> <h3>Actividad y estadísticas</h3> </div> <table align="center"> <tr> <td valign="top" width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=pablocodevs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> </td> <td valign="top" width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocodevs&layout=compact&theme=tokyonight&hide_border=true" /> </td> </tr> </table> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablocodevs&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablocodevs&theme=tokyo-night&hide_border=true" width="95%"/> </div> <br/> <div align="center"> <h3>Gráfico de contribuciones</h3> <img src="https://raw.githubusercontent.com/pablocodevs/pablocodevs/output/github-contribution-grid-snake.svg" width="95%"/> </div> <blockquote> Esta animación de la serpiente se genera automáticamente a partir de tu propio historial de contribuciones mediante una GitHub Action (<code>Platane/snk</code>). Se explica cómo activarla al final de este documento. </blockquote> <br/> <div align="center"> <h3>Proyectos destacados</h3> </div> <table align="center" width="90%"> <tr> <td align="center" width="50%"> <b>Próximamente</b><br/> <sub>Primer proyecto en construcción, se publicará en cuanto esté listo para mostrarse.</sub> </td> <td align="center" width="50%"> <b>Próximamente</b><br/> <sub>Espacio reservado para el segundo proyecto destacado.</sub> </td> </tr> </table> <br/> <div align="center"> <h3>Contacto</h3> <a href="https://www.linkedin.com/in/TU-USUARIO-AQUI" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:2563eb&height=220&section=header&text=Pablo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=20" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<h3>Sobre mí</h3>
+
+<p width="70%">
+Desarrollador frontend graduado en Desarrollo de Aplicaciones Web (DAW).<br/>
+Manejo Angular, Ionic y Vue, con base sólida en TypeScript y buenas prácticas de maquetación e interfaz.
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:1e293b&height=2&section=header" width="100%"/>
+
+<h3>Frontend</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,angular,ionic&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<h3>Backend</h3>
+
+<img src="https://skillicons.dev/icons?i=java,php&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<h3>Bases de datos</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<h3>Diseño</h3>
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="48"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<h3>Herramientas y entornos</h3>
+
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm,git,github&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="48"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:1e293b&height=2&section=header" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<h3>Estadísticas</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=pablocodevs&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocodevs&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<h3>Contacto</h3>
+
+<a href="https://www.linkedin.com/in/TU-USUARIO-AQUI" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:2563eb&height=120&section=footer" width="100%"/> </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:2563eb&height=120&section=footer" width="100%"/>
+
+</div>
