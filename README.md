@@ -5,7 +5,7 @@
   />
 </div>
 
-Desarrollador frontend graduado en Desarrollo de Aplicaciones Web (DAW).
+Desarrollador de Aplicaciones Web (DAW).
 Actualmente trabajo con Angular e Ionic en un entorno profesional, y durante
 la formación también he trabajado con Vue, TypeScript, Java y PHP.
 
@@ -25,16 +25,12 @@ la formación también he trabajado con Vue, TypeScript, Java y PHP.
 <h3>Sistemas informáticos</h3>
 <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,debian,eclipse,idea,docker" />
 <br/>
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" height="48"/>
 
 <h3>Herramientas y entornos</h3>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman" />
 
 <h3>Diseño</h3>
 <img src="https://skillicons.dev/icons?i=figma" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="48"/>
 
 <h3>Estadísticas</h3>
 <img 
