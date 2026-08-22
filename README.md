@@ -32,16 +32,6 @@ la formación también he trabajado con Vue, TypeScript, Java y PHP.
 <h3>Diseño</h3>
 <img src="https://skillicons.dev/icons?i=figma" />
 
-<h3>Estadísticas</h3>
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=pablocodevs&show_icons=true&theme=tokyonight&hide_border=true" 
-  height="165"
-/>
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocodevs&layout=compact&theme=tokyonight&hide_border=true" 
-  height="165"
-/>
-
 <h3>Contacto</h3>
 <a href="https://www.linkedin.com/in/TU-USUARIO-AQUI" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
