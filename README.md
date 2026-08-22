@@ -5,7 +5,7 @@
   />
 </div>
 
-Desarrollador frontend graduado en Desarrollo de Aplicaciones Web (DAW).
+Desarrollador de Aplicaciones Web.
 Actualmente trabajo con Angular e Ionic en un entorno profesional, y durante
 la formación también he trabajado con Vue, TypeScript, Java y PHP.
 
@@ -23,10 +23,10 @@ la formación también he trabajado con Vue, TypeScript, Java y PHP.
 <img src="https://skillicons.dev/icons?i=java,php,mysql" />
 
 <h3>Herramientas y entornos</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,pycharm,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman, " />
 
 <h3>Diseño</h3>
-<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=figma,canva" />
 
 <h3>Estadísticas</h3>
 <img 
