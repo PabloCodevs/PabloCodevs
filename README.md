@@ -17,8 +17,9 @@ la formación también he trabajado con Vue, TypeScript, Java y PHP.
 </ul>
 
 <h3>Frontend</h3>
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,angular" align="top" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px;" align="top" alt="Ionic" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="48" height="48" style="background-color: #1a1b26; border-radius: 10px; padding: 6px;" align="top" alt="Ionic" />
 </p>
 
 
