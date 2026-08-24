@@ -22,6 +22,10 @@ la formación también he trabajado con Vue, TypeScript, Java y PHP.
   <img src="https://img.shields.io/badge/-Ionic-1a1b26?style=plastic&logo=ionic&logoColor=3880FF" height="48" align="top" alt="Ionic" />
 </p>
 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,angular,ionic" />
+
+
+
 <h3>Backend</h3>
 <img src="https://skillicons.dev/icons?i=java,php,mysql" />
 
