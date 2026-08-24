@@ -36,7 +36,7 @@ la formación también he trabajado con Vue, TypeScript, Java y PHP.
 <img src="https://skillicons.dev/icons?i=figma" />
 
 <h3>Contacto</h3>
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pablocodevs)
 
 
 <div align="center">
