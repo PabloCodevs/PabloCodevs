@@ -11,7 +11,7 @@ la formación también he trabajado con Vue, TypeScript, Java y PHP.
 
 <h3>Actualmente</h3>
 <ul>
-  <li>Aplicando Angular e Ionic en un entorno de empresa</li>
+  <li>Aplicando Angular e Ionic en un entorno empresarial</li>
   <li>Afianzando TypeScript y buenas prácticas de frontend</li>
   <li>Preparando mis primeros proyectos públicos</li>
 </ul>
