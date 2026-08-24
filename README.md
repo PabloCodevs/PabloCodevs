@@ -37,7 +37,7 @@ la formación también he trabajado con Vue, TypeScript, Java y PHP.
 
 <h3>Contacto</h3>
 <a href="https://www.linkedin.com/in/pablocodevs" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://skillicons.dev" alt="LinkedIn" />
 </a>
 <br/>
 
