@@ -22,12 +22,11 @@ la formación también he trabajado con Vue, TypeScript, Java y PHP.
 <h3>Backend</h3>
 <img src="https://skillicons.dev/icons?i=java,php,mysql" />
 
-<h3>Sistemas informáticos</h3>
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,debian,eclipse,idea,docker" />
+<h3>Sistemas Informáticos</h3>
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,kali,docker" />
 
-
-<h3>Herramientas y entornos</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman" />
+<h3>Entornos de Desarrollo y Herramientas</h3>
+<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,pycharm,git,github,postman" />
 
 <h3>Diseño</h3>
 <img src="https://skillicons.dev/icons?i=figma" />
